@@ -1,4 +1,4 @@
-# CheckPublic
+# Public Github
 
 The majority of my code is currently only available within the university's enterprise github system. I would be happy to share more information during an interview.
 
